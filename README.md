@@ -1,2 +1,7 @@
 
-<h2> Blog simples utilizando HTML5 e CSS3 </h2>
+<h2> Blog | Curso One Bit Code </h2>
+<ul>
+  <li>
+      Criação de Blog simples utilizando HTML e CSS. 
+  </li>
+  </ul>
